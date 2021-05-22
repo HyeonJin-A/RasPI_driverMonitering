@@ -1,4 +1,4 @@
-#driver monitering system
+# driver monitering system
 
 
 1. 라즈베리파이에 연결된 카메라를 통해 운전자의 얼굴을 실시간으로 캡처
