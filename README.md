@@ -11,7 +11,7 @@
 </div>
 
 이후 기능을 추가하여
-ios 앱을 통해 알람음 조정이 가능하도록 만들었습니다.
+ios 앱을 통해 알람음 조정이 가능하도록 개선하였습니다.
 
 
 <img width="200" src="https://user-images.githubusercontent.com/75927764/102011691-44dbc700-3d89-11eb-86af-321f564337f4.jpg">
